@@ -9,6 +9,7 @@
 ```toml
 [dependencies]
 wasm-bindgen = "0.2.78"
+wee_alloc = "0.4.5"
 
 [lib]
 crate-type = ["cdylib"]
